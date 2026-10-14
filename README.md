@@ -16,3 +16,14 @@ Executive sales dashboard built in Excel using validated transaction data, KPI c
 
 
 ![Pivot Tables Summary 4](Screenshot_20260910-174358_1.png)
+
+## Author
+
+Anuoluwapo Daniel Ojo — Software Engineer · Data · Finance
+
+- GitHub: [github.com/Daniel38215571](https://github.com/Daniel38215571)
+- LinkedIn: [linkedin.com/in/daniel-ojo-879273197](https://linkedin.com/in/daniel-ojo-879273197)
+- Email: ojodaniel38@gmail.com
+- Location: Lagos, Nigeria (Remote-ready)
+
+Data × AI × Software. Building systems that prove themselves.
