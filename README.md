@@ -50,25 +50,25 @@ The workbook contains:
 
 ## Dashboard preview
 
-![Executive Sales Dashboard](Final_FY_ExecutiveSales_Dashboard.png)
+![Executive Sales Dashboard](final_07_ExecutiveSales_Dashboard.png)
 
 ## Workbook sheets
 
 **KPI Calculations**
 
-![KPI Calculations](Screenshot_20260310-105817_1.png)
+![KPI Calculations](Screenshot_20260310-105817_1.jpg)
 
 **KPI Summary Header**
 
-![KPI Summary Header](Screenshot_20260310-110348_1.png)
+![KPI Summary Header](Screenshot_20260310-110348_1.jpg)
 
 **Pivot Tables Evidence**
 
-![Pivot Tables Evidence](Screenshot_20260310-110738_1.png)
+![Pivot Tables Evidence](Screenshot_20260310-110738_1.jpg)
 
 **Category and Regional Breakdown**
 
-![Category and Regional Breakdown](Screenshot_20260310-110857_1.png)
+![Category and Regional Breakdown](Screenshot_20260310-110857_1.jpg)
 
 ## Author
 
